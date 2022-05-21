@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@1,500&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Ibarra Real Nova", serif;
+  width: 100vw;
+  background-image: linear-gradient(90deg, lightblue, lightyellow);
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  h1 {
+    color: lightcoral;
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 10px;
+  }
+  .poke-seacrh {
+    // background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 2.5rem auto;
+
+    #poke-input,
+    .btn-search {
+      padding: 10px 20px;
+      background-color: #ffff;
+      border: none;
+      font-size: 1.1rem;
+    }
+    #poke-input:focus {
+      outline: none;
+    }
+    .btn-search {
+      cursor: pointer;
+    }
+  }
+  .poke-container {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+    .poke-box {
+      width: 300px;
+      background-color: #f3f3f3;
+      border-radius: 15px;
+      padding: 7px;
+      margin: 10px;
+    }
+    .poke-box img {
+      width: 85%;
+      margin: 10px auto;
+    }
+    .poke-box {
+      .poke-id,
+      .poke-weight,
+      .poke-type {
+        text-align: center;
+        font-size: 1.1rem;
+        color: #333;
+        margin: 5px 0;
+      }
+    }
+    .poke-box h4 {
+      text-align: center;
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+  }
+}
+.hidden {
+  display: none;
+}
