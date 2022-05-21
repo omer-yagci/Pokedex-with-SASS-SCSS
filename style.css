@@ -8,7 +8,7 @@
 body {
   font-family: "Ibarra Real Nova", serif;
   width: 100vw;
-  background-image: linear-gradient(90deg, lightblue, lightyellow);
+  background-image: linear-gradient(to bottom, lightblue, lightyellow);
   overflow-x: hidden;
   display: flex;
   flex-direction: column;
@@ -70,6 +70,7 @@ body .poke-container .poke-box:hover {
   transform: scale(1.05);
   cursor: pointer;
   transition: 0.8s ease;
+  background-image: linear-gradient(90deg, lightblue, #f3f3f3);
 }
 body .poke-container .poke-box h4 {
   text-align: center;
