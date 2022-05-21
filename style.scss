@@ -67,6 +67,11 @@ body {
         color: #333;
         margin: 5px 0;
       }
+      &:hover {
+        transform: scale(1.05);
+        cursor: pointer;
+        transition: 0.8s ease;
+      }
     }
     .poke-box h4 {
       text-align: center;

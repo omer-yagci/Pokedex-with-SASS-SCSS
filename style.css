@@ -66,10 +66,19 @@ body .poke-container .poke-box .poke-type {
   color: #333;
   margin: 5px 0;
 }
+body .poke-container .poke-box:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+  transition: 0.8s ease;
+}
 body .poke-container .poke-box h4 {
   text-align: center;
   font-size: 1.5rem;
   font-weight: bold;
+}
+
+.hidden {
+  display: none;
 }
 
 /*# sourceMappingURL=style.css.map */
