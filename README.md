@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:https://omer-yagci.github.io/Random-User-Generator-API-SCSS/
+- Live Site URL:https://omer-yagci.github.io/Pokedex-with-SASS-SCSS/
 
 
 
