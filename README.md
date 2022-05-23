@@ -14,9 +14,12 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - Search the Pokemon's data from Pokedex Api
 
+
+![./screenshot.png](randomm.png)
+
 ### Links
 
-- Live Site URL:https://omer-yagci.github.io/Pokedex-with-SASS-SCSS/
+- Live Site URL:https://omer-yagci.github.io/Random-User-Generator-API-SCSS/
 
 
 
