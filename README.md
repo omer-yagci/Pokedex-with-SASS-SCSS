@@ -12,7 +12,7 @@ Thanks to visit my Github! In this project, i used HTML, CSS and JavaScript. Thi
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-- Search the Pokemon's data from Pokedex Api
+- You can see random user information on the screen.
 
 
 ![./screenshot.png](randomm.png)
