@@ -15,7 +15,7 @@ Users should be able to:
 - You can see random user information on the screen.
 
 
-![./screenshot.png](randomm.png)
+![./screenshot.png]
 
 ### Links
 
