@@ -3,7 +3,7 @@
 
 ## Welcome! 👋
 
-Thanks to visit my Github! In this project, i used HTML, CSS and JavaScript. This project created with flexbox. I used "Pokedex API". To get data from api, i used fecth method with async-await. For search bar, i checked all poke names if matches or not. 
+Thanks to visit my Github! In this project, I used HTML, CSS and JavaScript. This project created with flexbox. I used "Pokedex API". To get data from api, i used fecth method with async-await. For search bar, i checked all poke names if matches or not. 
 
 **To do this project, i used HTML5, CSS(SCSS) and JavaScript.I used async-await to fetch data.**
 
